@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_nfc"
+            android:checked="true"
+            android:title="@string/nfc"/>
+        <item
+            android:id="@+id/drawer_accelerometer"
+            android:title="@string/accelerometer"/>
+        <item
+            android:id="@+id/drawer_light"
+            android:title="@string/light_sensor"/>
+        <item
+            android:id="@+id/drawer_proximity"
+            android:title="@string/proximity"/>
+    </group>
+
+</menu>

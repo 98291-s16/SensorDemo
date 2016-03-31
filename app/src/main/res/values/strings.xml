@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SensorDemo</string>
+    <string name="nfc">NFC</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="light_sensor">Light</string>
+    <string name="proximity">Proximity</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="x_axis_acceleration">Acceleration in the x-axis: %s m/s^2</string>
+    <string name="y_axis_acceleration">Acceleration in the y-axis: %s m/s^2</string>
+    <string name="z_axis_acceleration">Acceleration in the z-axis: %s m/s^2</string>
+    <string name="lux">Sensing %s lux</string>
+    <string name="proximity_cm">Proximity: %s cm</string>
+</resources>
